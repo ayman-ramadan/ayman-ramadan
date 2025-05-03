@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayman Elgamal 👋</h1>
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Ayman's+Github+!">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+David's+Github+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Ayman's+Github+!" alt="Typing SVG" />
   </a>
 </p>
 
